@@ -1,1 +1,3 @@
-cs50-pset2
+CS50_pset2
+
+CS50 lecture_Problem set 1
